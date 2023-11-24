@@ -13,7 +13,7 @@ interface VimConfig {
 const vimConfig: VimConfig = {
   clientId: "app",
   clientSecret: "app",
-  host: "192.168.2.23",
+  host: "192.168.0.105",
   httProtocol: "http",
   wsProtocol: "ws",
   scope: "server",

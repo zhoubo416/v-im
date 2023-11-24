@@ -121,7 +121,6 @@ const defaultSubmit = () => {
     form.name = username
     form.password = 'admin123'
     form.code = '--'
-    form.host = '192.168.2.236'
     submit()
   }
 }
