@@ -27,7 +27,7 @@
                 ></chat-item>
         </template>
         <template v-else>
-        <div style="margin:10px">请先添加好友</div>
+        <div style="margin:10px">没有新信息</div>
         </template>
 
       </el-scrollbar>
